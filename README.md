@@ -1,5 +1,7 @@
 # skipgram-word2vec
 Iteration based method to learn Word Vectors. Word2vec is a method whose parameters are word vectors.
+
+This is an implementation of skipgram from scratch in numpy. 
 #### Algorithm : Skipgram
 Given a center word model generates the surrounding words. Steps are as follow
 * We generate our one hot input vector 
